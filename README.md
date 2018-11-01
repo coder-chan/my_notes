@@ -1,5 +1,5 @@
 ## 江湖路远
-1. [设计模式](https://github.com/coder-chan/my_notes/tree/master/pattern)
+1. [设计模式](https://github.com/coder-chan/my_notes/tree/master/design-patterns)
 
 2. 框架源码
 
