@@ -1,3 +1,5 @@
+> https://en.wikipedia.org/wiki/Software_design_pattern#Concurrency_patterns
+
 ##### 设计模式分类
 
 | 创建型模式   | 结构型模式 | 行为型模式   |
